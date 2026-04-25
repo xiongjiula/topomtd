@@ -119,22 +119,6 @@ python evaluate.py \
 
 TopoMTD achieves strong topology-preserving performance under the single-source three-target adaptation setting, improving vessel connectivity and reducing thin-vessel fragmentation while retaining single-model deployment efficiency.
 
-## Citation
-
-If you find this work useful, please cite:
-
-```bibtex
-@article{xiong2026topomtd,
-  title   = {Topology-Aware Multi-Teacher Distillation for Multi-Target Domain Adaptation in Retinal Vessel Segmentation},
-  author  = {Xiong, Wenyi and Liao, Shenghui and Li, Li and Zheng, Jie and Kui, Xiaoyan},
-  journal = {Pattern Recognition},
-  year    = {2026}
-}
-```
-
-## Acknowledgements
-
-This work was supported by the National Natural Science Foundation of China under Grant Nos. 62372475, U22A2034, and 62177047.
 
 ## License
 
